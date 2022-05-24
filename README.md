@@ -9,6 +9,8 @@ Bibliotecas:
 Modbus TCP - pyModbusTCP 0.1.10
 requests - requests 2.27.1;
 
+O CLP Utilizado foi o Codesys versão 3.5, a configuração está disponível neste repositório.
+
 
 Código baseado na documentação da biblioteca ModbusTCP. 
 Criado um outro arquivo modbus.py que possui somente a comunicação com Modbus e imprime no console. O obejtivo é para entender de forma mais fácil a comunicação antes de utilizar para atualização do PowerBI;
